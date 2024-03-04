@@ -1,3 +1,14 @@
+OBJETIVOS DEL PROYECTO
+. Crear un sistema de venta de productos / servicios online.
+. Dotar a la aplicación de un sistema de gestión de stock de
+productos(creación,modificación o eliminación) a través de la
+base de la datos.
+. Crear un sistema de gestión pedidos.
+. Implementar un sistema de control de existencias (inventario) que
+almacena la tienda.
+. Configurar un sistema de acceso a los recursos de la aplicación a
+través de login.
+
 Este proyecto representa mi trabajo de final de módulo para conseguir mi título de DAW.
 
 Consiste en el desarrollo de una aplicación web destinada a ser una
@@ -34,4 +45,5 @@ USUARIO: BorAdmin
 CONTRASEÑA: 1313bvc
 
 UTILIZAR LAS MISMAS CREDENCIALES ENTRANDO EN PERFIL AMINISTRADOR.
+
 
