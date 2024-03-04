@@ -1,0 +1,37 @@
+Este proyecto representa mi trabajo de final de módulo para conseguir mi título de DAW.
+
+Consiste en el desarrollo de una aplicación web destinada a ser una
+tienda online en la cual no solo se puede vender y comprar productos ,si no que
+además se podrán realizar distintas funciones dependiendo del rol de la persona que
+acceda a ella.
+El proyecto está divido en dos partes ,la interfaz de usuario y la de administrador.
+
+Desde la interfaz de usuario ,se podrán ver los productos que están a la venta sin
+tener que realizar ninguna acción para ello .
+En el caso de que el usuario desee realizar la compra de alguno de los
+productos ,este deberá registrarse a través del sistema de registro de la aplicación.
+Una vez realizado el registro , se podrá realizar la compra de los diferentes
+productos , además el usuario con tan solo iniciar sesión dispondrá de una sección
+propia desde la cual podrá consultar los pedidos realizados e incluso anularlos dependiendo 
+del estado de estos, y comprobar sus datos personales, los cuales podrá modificar si fuese necesario.
+
+La interfaz de administrador es de dominio único y exclusivo del dueño o
+administrador de la tienda. Para acceder como tal ,tan solo hay que iniciar sesión
+con las credenciales de este.
+En esta interfaz el administrador / dueño  cuenta con la opción de dar de alta, modificar los datos 
+o incluso eliminar a otros administradores.
+
+También contará con la opción de dar de alta, modificar y eliminar clientes registrados.
+
+Podrá gestionar el stock añadiendo ,modificando o eliminando productos llevando un inventario de los
+mismos y organizarlos por categorias.
+
+Podrá realizar modificaciones en los pedidos e incluso eliminarlos.
+
+ACCEDER AL ARCHIVO index.php dentro de la carpeta tienda para entrar a la tienda.
+CREDENCIALES ADMIN EN EL INICIO DE SESIÓN:
+USUARIO: BorAdmin
+CONTRASEÑA: 1313bvc
+
+UTILIZAR LAS MISMAS CREDENCIALES ENTRANDO EN PERFIL AMINISTRADOR.
+
