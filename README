@@ -39,11 +39,14 @@ mismos y organizarlos por categorias.
 
 Podrá realizar modificaciones en los pedidos e incluso eliminarlos.
 
-🛒ACCEDER AL ARCHIVO index.php dentro de la carpeta tienda para entrar a la tienda.
-🔑CREDENCIALES ADMIN EN EL INICIO DE SESIÓN:
+🛒 ACCEDER AL ARCHIVO index.php dentro de la carpeta tienda para entrar a la tienda.
+🔑 CREDENCIALES ADMIN EN EL INICIO DE SESIÓN:
 USUARIO: BorAdmin
 CONTRASEÑA: 1313bvc
 
-🔐UTILIZAR LAS MISMAS CREDENCIALES ENTRANDO EN PERFIL AMINISTRADOR.
+🔐 UTILIZAR LAS MISMAS CREDENCIALES ENTRANDO EN PERFIL AMINISTRADOR.
+
+💾 Base de datos MySQL
+Comparto el archivo SQL de la base de datos para que puedas importarlo he instalar el sistema en tu ordenador a nivel local.
 
 
